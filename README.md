@@ -6,6 +6,12 @@ I've only included a 4-layer set. Some rules reference specific layer names.
 
 Go to `Design > Manage Layer Sets > Board Layer Sets` and select `Import Layer Sets From File...`
 
+###### Libraries
+
+I've included a few libraries for anyone to use. I *think* I included everything needed. To install, just double-click the appropriate `.IntLib` file in `Project Outputs`
+
+I created `tm4cv006lib` around 3.5 years ago, and `Conscious_IntLib` much more recently. The Conscious one should be pretty tight.
+
 ###### Rules 
 
 Go to `Design > Rules... > Right-click 'Design Rules' at the top-left, choose 'Import Rules...'` and import them. MAKE SURE YOU BACK YOUR OWN RULES UP FIRST!!!
