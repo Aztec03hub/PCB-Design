@@ -21,9 +21,7 @@ So, let me know if this is an issue!
 Things to look at: (I'll use my actual rule names)
 
 * ThermalViasShrtCkt
-
 * UnRoutedNet (You'll probably want to enable 'Check for incomplete connections')
-
 * RoutingCorners
 
 * All 'Fanout' Rules
