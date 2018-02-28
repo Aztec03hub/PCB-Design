@@ -2,15 +2,15 @@
 
 ###### Templates 
 
-For these, go into `C:\Users\Public\Documents\Altium\AD17\Templates` or wherever your path is.
+Copy into `C:\Users\Public\Documents\Altium\AD17\Templates` or wherever your path is. This is for starting new projects!
 
 ###### Rules 
 
-For these, go to `Design > Rules... > Right-click 'Design Rules' at the top-left, choose 'Import Rules...'` and import them. MAKE SURE YOU BACK YOUR OWN RULES UP FIRST!!!
+Go to `Design > Rules... > Right-click 'Design Rules' at the top-left, choose 'Import Rules...'` and import them. MAKE SURE YOU BACK YOUR OWN RULES UP FIRST!!!
 
 ###### Stackup(s)
 
-For these, go to `Design > Layer Stack Manager > Load... > Load from File...`
+Go to `Design > Layer Stack Manager > Load... > Load from File...`
 
 ###### Notes on the rules file:
 
