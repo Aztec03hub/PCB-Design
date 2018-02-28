@@ -14,7 +14,7 @@ Go to `Design > Layer Stack Manager > Load... > Load from File...`
 
 ###### Notes on the rules file:
 
-I use a LOT of Altium's Query Language. I *have* had issues before trying to import Rules using Query Syntax which points towards identifiers which don't exist.
+I use a LOT of Altium's Query Language. I *have* had issues before trying to import Query Syntax Rules which point toward identifiers/labels which don't exist. Be aware.
 
 So, let me know if this is an issue!
 
