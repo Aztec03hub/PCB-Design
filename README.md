@@ -1,8 +1,10 @@
 ## PCB Design Repo
 
-###### Templates 
+###### Layer-Sets
 
-Copy into `C:\Users\Public\Documents\Altium\AD17\Templates` or wherever your path is. This is for starting new projects!
+I've only included a 4-layer set. Some rules reference specific layer names. 
+
+Go to `Design > Manage Layer Sets > Board Layer Sets` and select `Import Layer Sets From File...`
 
 ###### Rules 
 
@@ -11,6 +13,10 @@ Go to `Design > Rules... > Right-click 'Design Rules' at the top-left, choose 'I
 ###### Stackup(s)
 
 Go to `Design > Layer Stack Manager > Load... > Load from File...`
+
+###### Templates 
+
+Copy into `C:\Users\Public\Documents\Altium\AD17\Templates` or wherever your path is. This is for starting new projects!
 
 ###### Notes on the rules file:
 
