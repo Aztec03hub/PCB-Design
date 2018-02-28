@@ -43,7 +43,7 @@ Second Object Matches: `(IsVia) OR (PadViaLibraryTemplate = 'c150h90')`
 
 You'll have to determine the Pad Template identifier. (You can simply do this by double clicking the middle of your most-used vias)
 
-Finally, all rules and clearances were originally calculated for OSHPark's 4-layer service, and honed/refined overtime for some VERY tight (Read as: close to manufacturing tolerances) values. I've not had any issues yet.
+Finally, all rules and clearances were originally calculated for OSHPark's 4-layer service, and honed/refined overtime for some *VERY* tight (**Read as:** close to manufacturing tolerances) values. I've not had any issues yet.
 
 ## Check these guys out
 
